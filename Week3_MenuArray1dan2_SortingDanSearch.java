@@ -9,6 +9,8 @@ public class Week3_MenuArray1dan2_SortingDanSearch {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        // cobadulu bos
+
         // penampung nilai yang sementara di value null
         int[] dataArray1 = null;
         int [][] dataArray2 = null;
